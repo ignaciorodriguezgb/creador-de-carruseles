@@ -1,0 +1,11 @@
+{
+  "instagram": "@tu_usuario",
+  "color_acento": "naranja",
+  "colores_secundarios": ["negro", "blanco", "crema"],
+  "idioma": "español",
+  "aspect_ratio": "4:5",
+  "ancho": 1080,
+  "alto": 1350,
+  "rasgos": "describe tu cara en una línea: pelo, ojos, barba, anteojos, accesorios",
+  "ropa": "la ropa que usa tu avatar, por ejemplo: buzo negro"
+}

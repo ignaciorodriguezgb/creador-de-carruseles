@@ -1,0 +1,13 @@
+# Datos de tu marca y de tus carruseles: no se publican
+marca/marca.json
+marca/fotos/**
+!marca/fotos/**/
+!marca/fotos/**/.gitkeep
+inspiracion/
+salida/
+docs/guia-chatgpt.md
+
+.cache/
+kie-output/
+.DS_Store
+.env

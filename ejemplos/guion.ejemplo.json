@@ -1,0 +1,31 @@
+{
+  "autor_original": "@cuenta.original",
+  "estilo_avatar": "pixel art",
+  "acento_original": "verde",
+  "footer": [
+    { "original": "@cuenta.original", "nuevo": "{{instagram}}" },
+    { "original": "save for later", "nuevo": "guárdalo" }
+  ],
+  "slides": [
+    {
+      "n": 1,
+      "textos": [
+        { "original": "NEVER RUN OUT OF IDEAS", "nuevo": "NUNCA TE QUEDES SIN IDEAS" },
+        { "original": "(steal these)", "nuevo": "(róbalas)" }
+      ]
+    },
+    {
+      "n": 2,
+      "textos": [
+        { "original": "claude fixes its own mistakes", "nuevo": "claude corrige sus propios errores" }
+      ],
+      "mantener": ["1. SELF-HEALING", "self-healing", "SKILL.md"]
+    },
+    {
+      "n": 3,
+      "textos": [
+        { "original": "COMMENT “IDEAS” FOR A LINK", "nuevo": "COMENTA “IDEAS” Y TE MANDO EL LINK" }
+      ]
+    }
+  ]
+}
